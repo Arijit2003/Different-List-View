@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Different List View</string>
+    <string name="list_view">Normal List View</string>
+    <string name="customList">Custom List View</string>
+    <string name="god">God Name</string>
+    <string name="krishna">Krishna</string>
+    <string name="search">Search here</string>
+    <string name="normal">NORMAL LIST</string>
+    <string name="custom">CUSTOM LIST</string>
+    <string name="about">About Us</string>
+    <string name="share">Share</string>
+    <string name="welcome">Welcome</string>
+</resources>
